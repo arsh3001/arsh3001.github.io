@@ -87,18 +87,18 @@ author:
     - skill2:
       name: PHP
       percentage: 100%
-    - skill3:
-      name: JavaScript
-      percentage: 65%
-    - skill4:
-      name: Java
-      percentage: 80%
-    - skill5:
-      name: C
-      percentage: 90%
-    - skill6:
+    - skill3: 
       name: Python
       percentage: 90%
-    - skill7:
+    - skill4:
+      name: C
+      percentage: 90%
+    - skill5:
       name: SQL
       percentage: 90%
+    - skill6:
+      name: Java
+      percentage: 80%
+    - skill7:
+      name: JavaScript
+      percentage: 65%
