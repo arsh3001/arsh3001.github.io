@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Swetank Modi's CV
+description: swetankmodi's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: swetankmodi.me
+url: swetankmodi.me
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,17 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Swetank Modi
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  address: Kolkata, India
+  email: contact@swetankmodi.me
+  link: http://swetankmodi.me
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: swetankmodi
+  linkedin: swetank-modi
+  twitter: swetankmodi
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  stackoverflow: 6731983
 #  stackoverflow: 4582127
   workHistory:
     - work1:
