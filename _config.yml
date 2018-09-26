@@ -30,35 +30,35 @@ author:
       company: Directi Internet Solutions
       location: Mumbai, India
       title: Software Development Intern
-      started: June 2018
+      started: 2018
       duration: (June 2018 - Present)
       description: Worked on queuing and auto execution of jobs in the backend with status logs so that there is no extra load on the server.
     - work2:
       company: GeeksForGeeks
       location: Delhi, India (Remote)
       title: Technical Scripter
-      started: December 2017
+      started: 2017
       duration: (December 2017 - Present)
       description: Written various articles on datastructures and algorithms and improved articles by re-writing codes in different languages.
     - work3:
       company: XRIG Pvt Ltd
       location: Kolkata, India
       title: Software Developer
-      started: July 2017
+      started: 2017
       duration: (July 2017 - September 2018)
       description: Built the startup website and a customised cloud based erp solution for automating the inventory.
     - work4:
       company: Exide Industries Ltd
       location: Kolkata, India
       title: Software Developer Trainee
-      started: June 2017
+      started: 2017
       duration: (June 2017 - July 2017)
       description: Developed an asset management system for the company.
     - work5:
       company: Kolkata Bloggers
       location: Kolkata, India
       title: Developer
-      started: May 2017
+      started: 2017
       duration: (May 2017 - June 2018)
       description: Worked on an automated blog search chatbot.
   educationHistory:
